@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="save">Save</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profil">PROFILE</string>
+    <string name="home">Home</string>
+    <string name="breakingNews">Breaking News</string>
+    <string name="name">Nama</string>
+    <string name="namaku">Abdul Rozzaq</string>
+    <string name="github">Username Github</string>
+    <string name="usernameGithub">rrrozzaq</string>
+    <string name="search">Search News</string>
+</resources>
